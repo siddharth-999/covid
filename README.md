@@ -2,7 +2,7 @@
 
 ## **PROJECT SETUP**
 1. **Clone this repository:**
-      * git clone git@github.com:siddharth-999/covid.git
+      * git clone git@github.com:siddharth-999/covid-case-app.git
 2. **Create virtual environment:**
       * sudo apt install virtualenv
       * virtualenv --python='/usr/bin/python3.6' covid-env
