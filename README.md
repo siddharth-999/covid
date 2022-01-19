@@ -7,7 +7,7 @@
       * sudo apt install virtualenv
       * virtualenv --python='/usr/bin/python3.6' covid-env
       * source covid-env/bin/activate
-      * cd <repo_name>/
+      * cd covid-case-app/
 3.  **Install dependencies**:
       * pip install -r requirements.txt
 4.  **create postgres** install postgres database **/** create db if already install
